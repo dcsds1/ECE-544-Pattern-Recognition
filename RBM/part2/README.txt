@@ -1,0 +1,1 @@
+Run part2.py. Data needs to be put in the same file as codes.
