@@ -3,6 +3,8 @@
 Created on Tue Sep 27 20:38:13 2016
 
 @author: changsongdong
+
+To show a basic convolutional neural network built using TensorFlow
 """
 
 import tensorflow as tf
